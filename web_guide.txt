@@ -1,0 +1,3 @@
+Yii 2.0 权威指南:  http://www.yiichina.com/doc/guide/2.0
+
+深入理解Yii2.0:    http://www.digpage.com/index.html
