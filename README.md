@@ -1,4 +1,5 @@
 Guide: http://www.yiichina.com/doc/guide/2.0/intro-yii
+目录结构：Guide：http://www.digpage.com/app_struct.html
 
 Yii 2 Basic Project Template
 ============================
