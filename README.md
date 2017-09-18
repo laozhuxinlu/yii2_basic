@@ -1,3 +1,5 @@
+Guide: http://www.yiichina.com/doc/guide/2.0/intro-yii
+
 Yii 2 Basic Project Template
 ============================
 
